@@ -15,6 +15,7 @@ public class Main {
 
         int sum=var2+var3;
         System.out.println(sum);
+        System.out.println(variable);
 
     }
 }
