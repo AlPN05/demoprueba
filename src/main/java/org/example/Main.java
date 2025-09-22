@@ -9,7 +9,12 @@ public class Main {
         System.out.println(String.format("Hello and welcome!"));
 
 
-            int variable =18;
+        int variable =18;
+        int var2=12;
+        int var3=14;
+
+        int sum=var2+var3;
+        System.out.println(sum);
 
     }
 }
